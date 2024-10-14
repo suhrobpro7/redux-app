@@ -1,0 +1,51 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React Basics",
+      "description": "Learn the basics of React."
+    },
+    {
+      "id": "2",
+      "title": "Node.js Fundamentals",
+      "description": "Get started with Node.js."
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "802c",
+      "courseId": "1",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "message": "Hi, I need more details"
+    },
+    {
+      "id": "3104",
+      "courseId": "2",
+      "name": "Tom",
+      "email": "tom@gmail.com",
+      "message": "I need price details"
+    },
+    {
+      "id": "0b1b",
+      "courseId": "2",
+      "name": "test",
+      "email": "t@g",
+      "message": "test\n"
+    },
+    {
+      "id": "894b",
+      "courseId": "1",
+      "name": "test@abc",
+      "email": "test@abc",
+      "message": "test@abc"
+    },
+    {
+      "id": "1d24",
+      "courseId": "1",
+      "name": "trt",
+      "email": "tr@r",
+      "message": "rer"
+    }
+  ]
+}
